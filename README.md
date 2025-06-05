@@ -2,7 +2,7 @@
 Open-source codebase for EfficientZero, from ["Mastering Atari Games with Limited Data"](https://arxiv.org/abs/2111.00210) at NeurIPS 2021.
 
 ## Environments
-EfficientZero requires python3 (>=3.6) and pytorch (>=1.8.0) with the development headers. 
+EfficientZero requires python3 (>=3.6) and pytorch (>=2.0.0) with the development headers.
 
 We recommend to use torch amp (`--amp_type torch_amp`) to accelerate training.
 
